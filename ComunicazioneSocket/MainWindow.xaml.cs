@@ -33,7 +33,7 @@ namespace ComunicazioneSocket
         string messaggio;//messaggio nemico
         bool Inviato = false;//inviato dati
         bool Giocata = false;//giocata
-        int giocate = 0;
+        int giocate = 1;
         
         public MainWindow()
         {

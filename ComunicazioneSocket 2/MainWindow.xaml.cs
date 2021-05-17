@@ -33,7 +33,7 @@ namespace ComunicazioneSocket
         string messaggio;//mex avversario
         bool Inviato = false;//inviato
         bool Giocata = false;
-        int giocate = 0;//giocate 
+        int giocate = 1;//giocate 
         public MainWindow()
         {
             InitializeComponent();
